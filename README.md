@@ -1,0 +1,2 @@
+# wasteyourtime
+An everloading website.
